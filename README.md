@@ -175,3 +175,7 @@ data/cases.csv          20 条自造案例
 data/out/               产物 + eval_v1/v2/v3.csv
 docs/                   章程、评测规则、badcase、每日记录
 ```
+
+## 许可证
+
+MIT License —— 可以自由使用、修改、再分发，保留版权声明即可。见 [LICENSE](LICENSE)。
