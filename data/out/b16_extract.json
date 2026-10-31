@@ -1,0 +1,16 @@
+{
+  "brief_id": "b16",
+  "brief": "下午茶套餐 68，两个人，做个海报，温柔的",
+  "industry": "下午茶",
+  "target": "两人同行",
+  "style": "温柔",
+  "size": "",
+  "deliverable": "海报",
+  "taboo": "",
+  "deadline": "",
+  "_missing": [
+    "size",
+    "taboo",
+    "deadline"
+  ]
+}

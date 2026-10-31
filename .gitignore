@@ -1,0 +1,22 @@
+# 密钥
+.env
+.env.*
+!.env.example
+*.bak
+
+# 图像缓存（体积大，不进仓库；Day 5 后按需保留）
+data/out/img/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 系统
+.DS_Store
+Thumbs.db
+.acl-reports/
+
+# LLM 响应缓存（可再生，不进仓库）
+data/cache/

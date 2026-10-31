@@ -1,0 +1,17 @@
+{
+  "brief_id": "b29",
+  "brief": "民宿，秋景，做个海报，文艺",
+  "industry": "民宿",
+  "target": "",
+  "style": "文艺",
+  "size": "",
+  "deliverable": "海报",
+  "taboo": "",
+  "deadline": "",
+  "_missing": [
+    "target",
+    "size",
+    "taboo",
+    "deadline"
+  ]
+}

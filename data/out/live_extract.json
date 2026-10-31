@@ -1,0 +1,18 @@
+{
+  "brief_id": "live",
+  "brief": "老板说要个海报，明天要，你看着弄",
+  "industry": "",
+  "target": "",
+  "style": "",
+  "size": "",
+  "deliverable": "海报",
+  "taboo": "",
+  "deadline": "明天",
+  "_missing": [
+    "industry",
+    "target",
+    "style",
+    "size",
+    "taboo"
+  ]
+}

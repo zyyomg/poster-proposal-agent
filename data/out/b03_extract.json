@@ -1,0 +1,15 @@
+{
+  "brief_id": "b03",
+  "brief": "双十一奶粉活动，满三百减五十，会员再九五折，海报上价格要写清楚，可爱一点，妈妈们吃这套",
+  "industry": "奶粉",
+  "target": "妈妈",
+  "style": "可爱",
+  "size": "",
+  "deliverable": "海报",
+  "taboo": "",
+  "deadline": "双十一",
+  "_missing": [
+    "size",
+    "taboo"
+  ]
+}

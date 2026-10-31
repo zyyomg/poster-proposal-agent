@@ -1,0 +1,18 @@
+{
+  "brief_id": "b07",
+  "brief": "暑期数学班，二十天，收二十个学生，家长会看的，做好看点点",
+  "industry": "数学班",
+  "target": "家长",
+  "style": "",
+  "size": "",
+  "deliverable": "",
+  "taboo": "",
+  "deadline": "",
+  "_missing": [
+    "style",
+    "size",
+    "deliverable",
+    "taboo",
+    "deadline"
+  ]
+}

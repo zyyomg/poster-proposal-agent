@@ -1,0 +1,17 @@
+{
+  "brief_id": "b01",
+  "brief": "那个海报你帮我搞一下，就我们那个新品，要高级一点，老板说要有点科技感，周五要",
+  "industry": "",
+  "target": "",
+  "style": "高级、科技感",
+  "size": "",
+  "deliverable": "海报",
+  "taboo": "",
+  "deadline": "周五",
+  "_missing": [
+    "industry",
+    "target",
+    "size",
+    "taboo"
+  ]
+}

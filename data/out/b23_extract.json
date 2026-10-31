@@ -1,0 +1,17 @@
+{
+  "brief_id": "b23",
+  "brief": "双十二，全场五折起，做个海报，要炸",
+  "industry": "",
+  "target": "",
+  "style": "炸",
+  "size": "",
+  "deliverable": "海报",
+  "taboo": "",
+  "deadline": "双十二",
+  "_missing": [
+    "industry",
+    "target",
+    "size",
+    "taboo"
+  ]
+}

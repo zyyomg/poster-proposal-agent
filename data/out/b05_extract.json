@@ -1,0 +1,15 @@
+{
+  "brief_id": "b05",
+  "brief": "我们汽修厂搞个洗车年卡的活动，办卡送两次打蜡，价格你定吧反正一百来块，做个海报贴门口，夏天那种清爽的，竖着的",
+  "industry": "汽修厂",
+  "target": "车主",
+  "style": "清爽、夏日",
+  "size": "竖版",
+  "deliverable": "海报",
+  "taboo": "",
+  "deadline": "",
+  "_missing": [
+    "taboo",
+    "deadline"
+  ]
+}

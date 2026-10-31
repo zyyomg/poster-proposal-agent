@@ -1,0 +1,16 @@
+{
+  "brief_id": "b26",
+  "brief": "考研冲刺班，最后 30 天，做个海报，焦虑一点",
+  "industry": "考研冲刺班",
+  "target": "考研学生",
+  "style": "焦虑",
+  "size": "",
+  "deliverable": "海报",
+  "taboo": "",
+  "deadline": "",
+  "_missing": [
+    "size",
+    "taboo",
+    "deadline"
+  ]
+}

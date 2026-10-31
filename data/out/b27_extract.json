@@ -1,0 +1,16 @@
+{
+  "brief_id": "b27",
+  "brief": "皮肤管理，新客体验 99，做个海报，干净",
+  "industry": "皮肤管理",
+  "target": "新客",
+  "style": "干净",
+  "size": "",
+  "deliverable": "海报",
+  "taboo": "",
+  "deadline": "",
+  "_missing": [
+    "size",
+    "taboo",
+    "deadline"
+  ]
+}

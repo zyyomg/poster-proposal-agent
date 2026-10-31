@@ -1,0 +1,17 @@
+{
+  "brief_id": "b06",
+  "brief": "烧烤店周年，想搞个海报，就那种很热闹的，能看懂就行",
+  "industry": "烧烤店",
+  "target": "",
+  "style": "热闹",
+  "size": "",
+  "deliverable": "海报",
+  "taboo": "",
+  "deadline": "",
+  "_missing": [
+    "target",
+    "size",
+    "taboo",
+    "deadline"
+  ]
+}

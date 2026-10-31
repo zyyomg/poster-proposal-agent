@@ -1,0 +1,18 @@
+{
+  "brief_id": "b21",
+  "brief": "年卡 1999，双十一，做个海报",
+  "industry": "",
+  "target": "",
+  "style": "",
+  "size": "",
+  "deliverable": "海报",
+  "taboo": "",
+  "deadline": "双十一",
+  "_missing": [
+    "industry",
+    "target",
+    "style",
+    "size",
+    "taboo"
+  ]
+}

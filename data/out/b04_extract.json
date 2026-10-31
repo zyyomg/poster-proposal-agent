@@ -1,0 +1,19 @@
+{
+  "brief_id": "b04",
+  "brief": "开业那个海报，就按上次的风格来，别问了，你懂的，快点",
+  "industry": "",
+  "target": "",
+  "style": "",
+  "size": "",
+  "deliverable": "海报",
+  "taboo": "",
+  "deadline": "",
+  "_missing": [
+    "industry",
+    "target",
+    "style",
+    "size",
+    "taboo",
+    "deadline"
+  ]
+}

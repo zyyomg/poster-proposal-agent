@@ -1,0 +1,15 @@
+{
+  "brief_id": "b18",
+  "brief": "六一，玩具全场八折，做个海报，小孩子喜欢的那种",
+  "industry": "玩具",
+  "target": "小孩子",
+  "style": "可爱",
+  "size": "",
+  "deliverable": "海报",
+  "taboo": "",
+  "deadline": "六一",
+  "_missing": [
+    "size",
+    "taboo"
+  ]
+}

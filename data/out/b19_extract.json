@@ -1,0 +1,17 @@
+{
+  "brief_id": "b19",
+  "brief": "我们车源两百多台，做个海报，要靠谱",
+  "industry": "二手车",
+  "target": "",
+  "style": "靠谱",
+  "size": "",
+  "deliverable": "海报",
+  "taboo": "",
+  "deadline": "",
+  "_missing": [
+    "target",
+    "size",
+    "taboo",
+    "deadline"
+  ]
+}

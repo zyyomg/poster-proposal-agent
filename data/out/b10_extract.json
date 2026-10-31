@@ -1,0 +1,18 @@
+{
+  "brief_id": "b10",
+  "brief": "种植牙，单颗一万二，搞个活动价，别太像广告",
+  "industry": "种植牙",
+  "target": "",
+  "style": "",
+  "size": "",
+  "deliverable": "",
+  "taboo": "不要太像广告",
+  "deadline": "",
+  "_missing": [
+    "target",
+    "style",
+    "size",
+    "deliverable",
+    "deadline"
+  ]
+}

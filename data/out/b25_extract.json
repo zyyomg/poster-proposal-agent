@@ -1,0 +1,18 @@
+{
+  "brief_id": "b25",
+  "brief": "火锅店，工作日中午套餐 39，做个海报",
+  "industry": "火锅店",
+  "target": "",
+  "style": "",
+  "size": "",
+  "deliverable": "海报",
+  "taboo": "",
+  "deadline": "",
+  "_missing": [
+    "target",
+    "style",
+    "size",
+    "taboo",
+    "deadline"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "brief_id": "b22",
+  "brief": "纸尿裤活动，第二件半价，海报",
+  "industry": "纸尿裤",
+  "target": "",
+  "style": "",
+  "size": "",
+  "deliverable": "海报",
+  "taboo": "",
+  "deadline": "",
+  "_missing": [
+    "target",
+    "style",
+    "size",
+    "taboo",
+    "deadline"
+  ]
+}

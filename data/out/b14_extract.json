@@ -1,0 +1,18 @@
+{
+  "brief_id": "b14",
+  "brief": "秋冬上新，清冷高级，别花",
+  "industry": "",
+  "target": "",
+  "style": "清冷、高级",
+  "size": "",
+  "deliverable": "",
+  "taboo": "不要花",
+  "deadline": "",
+  "_missing": [
+    "industry",
+    "target",
+    "size",
+    "deliverable",
+    "deadline"
+  ]
+}

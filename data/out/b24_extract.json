@@ -1,0 +1,18 @@
+{
+  "brief_id": "b24",
+  "brief": "耳机新品，降噪，做个海报，要高级",
+  "industry": "",
+  "target": "",
+  "style": "高级",
+  "size": "",
+  "deliverable": "海报",
+  "taboo": "",
+  "deadline": "",
+  "_missing": [
+    "industry",
+    "target",
+    "size",
+    "taboo",
+    "deadline"
+  ]
+}
